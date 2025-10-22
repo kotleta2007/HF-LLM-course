@@ -1,0 +1,7 @@
+[project]
+name = "hf-llm-course"
+version = "0.1.0"
+description = "Hugging Face LLM Course"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
